@@ -1,0 +1,175 @@
+==========
+References
+==========
+Drm
+System
+Drm.Format.Epub
+Ionic.Zip
+System.Xml.XPath
+System.IO
+System.Xml
+System.Collections.Generic
+Org.BouncyCastle.Crypto.Engines
+Drm.Utils
+System.Linq
+Org.BouncyCastle.Asn1
+Org.BouncyCastle.Math
+Org.BouncyCastle.Crypto.Parameters
+System.Security.Cryptography
+Microsoft.Win32
+System.Runtime.Intrinsics
+System.Text
+
+System.Management
+System.Text.RegularExpressions
+System.Runtime.CompilerServices
+System.Runtime.Intrinsics.X86
+Ionic.Zlib
+System.Xml.Linq
+System.Data.SQLite
+System.Threading.Tasks
+System.Data.Common
+System.Net.NetworkInformation
+Drm.Format.EReader
+Ionic.Crc
+System.CodeDom.Compiler
+System.Text.RegularExpressions.Generated
+System.Globalization
+System.Buffers
+System.Runtime.InteropServices
+System.Security.Cryptography.Aes
+project.all
+SimpleLauncher
+Drm.Tests
+NUnit.Framework
+NUnit.Framework.Constraints
+<global namespace>
+Microsoft.VisualStudio.TestPlatform
+
+===============
+DownloadedFiles
+===============
+project.all.json
+ionic.crc.json
+ionic.zlib.json
+ionic.zip.json
+
+==============
+ProjectResults
+==============
+----------------------
+Showing results for: /tmp/tempfspartition/QnetTransformArtifacts/MidTransformCode/sourceCode/SimpleLauncher/SimpleLauncher.csproj
+----------------------
+---------------------------
+Target Versions:
+---------------------------
+net8.0
+---------------------------
+Source Versions:
+---------------------------
+net48
+---------------------------
+Upgrade packages:
+---------------------------
+---------------------------
+Action packages:
+---------------------------
+
+----------------------
+Showing results for: /tmp/tempfspartition/QnetTransformArtifacts/MidTransformCode/sourceCode/Drm.Tests/Drm.Tests.csproj
+----------------------
+---------------------------
+Target Versions:
+---------------------------
+net8.0
+---------------------------
+Source Versions:
+---------------------------
+net48
+---------------------------
+Upgrade packages:
+---------------------------
+---------------------------
+Action packages:
+---------------------------
+
+----------------------
+Showing results for: /tmp/tempfspartition/QnetTransformArtifacts/MidTransformCode/sourceCode/Drm/Drm.csproj
+----------------------
+---------------------------
+Target Versions:
+---------------------------
+net8.0
+---------------------------
+Source Versions:
+---------------------------
+net48
+---------------------------
+Upgrade packages:
+---------------------------
+---------------------------
+Action packages:
+---------------------------
+DotNetZip,*
+
+----------------------
+Showing results for: /tmp/tempfspartition/QnetTransformArtifacts/MidTransformCode/sourceCode/Drm.Tests/Drm.Tests.csproj
+----------------------
+---------------------------
+Target Versions:
+---------------------------
+net8.0
+---------------------------
+Source Versions:
+---------------------------
+net48
+---------------------------
+Upgrade packages:
+---------------------------
+---------------------------
+Action packages:
+---------------------------
+
+----------------------
+Showing results for: /tmp/tempfspartition/QnetTransformArtifacts/MidTransformCode/sourceCode/SimpleLauncher/SimpleLauncher.csproj
+----------------------
+---------------------------
+Target Versions:
+---------------------------
+net8.0
+---------------------------
+Source Versions:
+---------------------------
+net48
+---------------------------
+Upgrade packages:
+---------------------------
+---------------------------
+Action packages:
+---------------------------
+
+----------------------
+Showing results for: /tmp/tempfspartition/QnetTransformArtifacts/MidTransformCode/sourceCode/Drm/Drm.csproj
+----------------------
+---------------------------
+Target Versions:
+---------------------------
+net8.0
+---------------------------
+Source Versions:
+---------------------------
+net48
+---------------------------
+Upgrade packages:
+---------------------------
+---------------------------
+Action packages:
+---------------------------
+DotNetZip,*
+
+
+===========
+BuildErrors
+===========
+
+
