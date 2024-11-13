@@ -1,0 +1,305 @@
+==========
+References
+==========
+Drm
+System
+Drm.Format.Epub
+Ionic.Zip
+System.Xml.XPath
+System.IO
+System.Xml
+System.Collections.Generic
+Org.BouncyCastle.Crypto.Engines
+Drm.Utils
+System.Linq
+Org.BouncyCastle.Asn1
+Org.BouncyCastle.Math
+Org.BouncyCastle.Crypto.Parameters
+System.Security.Cryptography
+Microsoft.Win32
+System.Runtime.Intrinsics
+System.Text
+
+System.Management
+System.Text.RegularExpressions
+System.Runtime.CompilerServices
+System.Runtime.Intrinsics.X86
+Ionic.Zlib
+System.Xml.Linq
+System.Data.SQLite
+System.Threading.Tasks
+System.Data.Common
+System.Net.NetworkInformation
+Drm.Format.EReader
+Ionic.Crc
+System.CodeDom.Compiler
+System.Text.RegularExpressions.Generated
+System.Globalization
+System.Buffers
+System.Runtime.InteropServices
+System.Security.Cryptography.Aes
+project.all
+SimpleLauncher
+Drm.Tests
+NUnit.Framework
+NUnit.Framework.Constraints
+
+===============
+DownloadedFiles
+===============
+project.all.json
+ionic.crc.json
+ionic.zlib.json
+ionic.zip.json
+
+==============
+ProjectResults
+==============
+----------------------
+Showing results for: /tmp/tempfspartition/QnetTransformArtifacts/MidTransformCode/sourceCode/Drm.Tests/Drm.Tests.csproj
+----------------------
+---------------------------
+Target Versions:
+---------------------------
+net9.0
+---------------------------
+Source Versions:
+---------------------------
+net48
+---------------------------
+Upgrade packages:
+---------------------------
+coverlet.collector,->6.0.2
+Microsoft.NET.Test.Sdk,->17.11.1
+NUnit3TestAdapter,->4.6.0
+nunit,->4.2.2
+---------------------------
+Action packages:
+---------------------------
+---------------------------
+Executed Actions for file: Project
+---------------------------
+
+Action Type: ProjectFile
+Action Name: MigrateProjectFile
+Action Value: 
+Times Run: 1
+Executions With Error: 0
+Invalid Executions: 0
+
+
+----------------------
+Showing results for: /tmp/tempfspartition/QnetTransformArtifacts/MidTransformCode/sourceCode/SimpleLauncher/SimpleLauncher.csproj
+----------------------
+---------------------------
+Target Versions:
+---------------------------
+net9.0
+---------------------------
+Source Versions:
+---------------------------
+net48
+---------------------------
+Upgrade packages:
+---------------------------
+System.Data.SQLite.Core,->1.0.118
+---------------------------
+Action packages:
+---------------------------
+---------------------------
+Executed Actions for file: Project
+---------------------------
+
+Action Type: ProjectFile
+Action Name: MigrateProjectFile
+Action Value: 
+Times Run: 1
+Executions With Error: 0
+Invalid Executions: 0
+
+
+----------------------
+Showing results for: /tmp/tempfspartition/QnetTransformArtifacts/MidTransformCode/sourceCode/Drm/Drm.csproj
+----------------------
+---------------------------
+Target Versions:
+---------------------------
+net9.0
+---------------------------
+Source Versions:
+---------------------------
+net48
+---------------------------
+Upgrade packages:
+---------------------------
+DotNetZip,->1.16.0
+System.Data.SQLite.Core,->1.0.118
+System.Management,->8.0.0
+BouncyCastle.Cryptography,->2.4.0
+---------------------------
+Action packages:
+---------------------------
+DotNetZip,*
+---------------------------
+Executed Actions for file: /tmp/tempfspartition/QnetTransformArtifacts/MidTransformCode/sourceCode/Drm/Format/Epub/AdeptEpub.cs
+---------------------------
+
+---------------------------
+Executed Actions for file: Project
+---------------------------
+
+Action Type: ProjectFile
+Action Name: MigrateProjectFile
+Action Value: 
+Times Run: 1
+Executions With Error: 0
+Invalid Executions: 0
+
+---------------------------
+Executed Actions for file: /tmp/tempfspartition/QnetTransformArtifacts/MidTransformCode/sourceCode/Drm/Format/Epub/KoboEpub.cs
+---------------------------
+
+---------------------------
+Executed Actions for file: /tmp/tempfspartition/QnetTransformArtifacts/MidTransformCode/sourceCode/Drm/Format/EReader/EReaderProcessor.cs
+---------------------------
+
+---------------------------
+Executed Actions for file: /tmp/tempfspartition/QnetTransformArtifacts/MidTransformCode/sourceCode/Drm/Format/Epub/Epub.cs
+---------------------------
+
+---------------------------
+Executed Actions for file: /tmp/tempfspartition/QnetTransformArtifacts/MidTransformCode/sourceCode/Drm/FormatGuesser.cs
+---------------------------
+
+---------------------------
+Executed Actions for file: /tmp/tempfspartition/QnetTransformArtifacts/MidTransformCode/sourceCode/Drm/Format/Epub/Decryptor.cs
+---------------------------
+
+
+----------------------
+Showing results for: /tmp/tempfspartition/QnetTransformArtifacts/MidTransformCode/sourceCode/Drm.Tests/Drm.Tests.csproj
+----------------------
+---------------------------
+Target Versions:
+---------------------------
+net9.0
+---------------------------
+Source Versions:
+---------------------------
+net48
+---------------------------
+Upgrade packages:
+---------------------------
+coverlet.collector,->6.0.2
+Microsoft.NET.Test.Sdk,->17.11.1
+NUnit3TestAdapter,->4.6.0
+nunit,->4.2.2
+---------------------------
+Action packages:
+---------------------------
+---------------------------
+Executed Actions for file: Project
+---------------------------
+
+Action Type: ProjectFile
+Action Name: MigrateProjectFile
+Action Value: 
+Times Run: 1
+Executions With Error: 0
+Invalid Executions: 0
+
+
+----------------------
+Showing results for: /tmp/tempfspartition/QnetTransformArtifacts/MidTransformCode/sourceCode/SimpleLauncher/SimpleLauncher.csproj
+----------------------
+---------------------------
+Target Versions:
+---------------------------
+net9.0
+---------------------------
+Source Versions:
+---------------------------
+net48
+---------------------------
+Upgrade packages:
+---------------------------
+System.Data.SQLite.Core,->1.0.118
+---------------------------
+Action packages:
+---------------------------
+---------------------------
+Executed Actions for file: Project
+---------------------------
+
+Action Type: ProjectFile
+Action Name: MigrateProjectFile
+Action Value: 
+Times Run: 1
+Executions With Error: 0
+Invalid Executions: 0
+
+
+----------------------
+Showing results for: /tmp/tempfspartition/QnetTransformArtifacts/MidTransformCode/sourceCode/Drm/Drm.csproj
+----------------------
+---------------------------
+Target Versions:
+---------------------------
+net9.0
+---------------------------
+Source Versions:
+---------------------------
+net48
+---------------------------
+Upgrade packages:
+---------------------------
+DotNetZip,->1.16.0
+System.Data.SQLite.Core,->1.0.118
+System.Management,->8.0.0
+BouncyCastle.Cryptography,->2.4.0
+---------------------------
+Action packages:
+---------------------------
+DotNetZip,*
+---------------------------
+Executed Actions for file: /tmp/tempfspartition/QnetTransformArtifacts/MidTransformCode/sourceCode/Drm/Format/Epub/AdeptEpub.cs
+---------------------------
+
+---------------------------
+Executed Actions for file: Project
+---------------------------
+
+Action Type: ProjectFile
+Action Name: MigrateProjectFile
+Action Value: 
+Times Run: 1
+Executions With Error: 0
+Invalid Executions: 0
+
+---------------------------
+Executed Actions for file: /tmp/tempfspartition/QnetTransformArtifacts/MidTransformCode/sourceCode/Drm/Format/Epub/KoboEpub.cs
+---------------------------
+
+---------------------------
+Executed Actions for file: /tmp/tempfspartition/QnetTransformArtifacts/MidTransformCode/sourceCode/Drm/Format/EReader/EReaderProcessor.cs
+---------------------------
+
+---------------------------
+Executed Actions for file: /tmp/tempfspartition/QnetTransformArtifacts/MidTransformCode/sourceCode/Drm/Format/Epub/Epub.cs
+---------------------------
+
+---------------------------
+Executed Actions for file: /tmp/tempfspartition/QnetTransformArtifacts/MidTransformCode/sourceCode/Drm/FormatGuesser.cs
+---------------------------
+
+---------------------------
+Executed Actions for file: /tmp/tempfspartition/QnetTransformArtifacts/MidTransformCode/sourceCode/Drm/Format/Epub/Decryptor.cs
+---------------------------
+
+
+
+===========
+BuildErrors
+===========
+
+
