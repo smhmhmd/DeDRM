@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Management;
 using System.Runtime.CompilerServices;
@@ -140,7 +140,7 @@ public static partial class AdeptMasterKeys
 	}
 
 	[GeneratedRegex(@"\A\b[0-9a-fA-F]+\b\Z")]
-	private static partial Regex HexStringPattern();
+	private static Regex HexStringPattern() => throw null!;
 	private const string DeviceKey = @"Software\Adobe\Adept\Device";
 	private const string ActivationKey = @"Software\Adobe\Adept\Activation";
 }
